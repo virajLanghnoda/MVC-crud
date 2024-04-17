@@ -1,0 +1,113 @@
+﻿@model Mvc_task_Final.Models.Room
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+@{
+    var errorMessage = TempData["ErrorMessage"] as string;
+}
+
+@if (!string.IsNullOrEmpty(errorMessage))
+{
+    <script>
+        alert('@errorMessage');
+    </script>
+}
+
+<h1>Create</h1>
+
+<h4>Room</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="RoomId" class="control-label"></label>
+                <input asp-for="RoomId" class="form-control" />
+                <span asp-validation-for="RoomId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="RoomNumber" class="control-label"></label>
+                <input asp-for="RoomNumber" class="form-control" />
+                <span asp-validation-for="RoomNumber" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="NumberOfPerson" class="control-label"></label>
+                <input asp-for="NumberOfPerson" class="form-control" />
+                <span asp-validation-for="NumberOfPerson" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="CheckInDate" class="control-label"></label>
+                <input asp-for="CheckInDate" class="form-control" />
+                <span asp-validation-for="CheckInDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="CheckOutDate" class="control-label"></label>
+                <input asp-for="CheckOutDate" class="form-control" />
+                <span asp-validation-for="CheckOutDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="RoomType" class="control-label"></label>
+                <select asp-for="RoomType" class="form-control" onchange="updatePrice()">
+                    <option value="Delux">Delux</option>
+                    <option value="Super Delux">Super Delux</option>
+                    <option value="Premium">Premium</option>
+                </select>
+                <span asp-validation-for="RoomType" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" readonly />
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        function updatePrice() {
+
+            var selectedRoomType = document.getElementById("RoomType").value;
+
+            var price = 0;
+            switch (selectedRoomType) {
+                case "Delux":
+                    price = 1000;
+                    break;
+                case "Super Delux":
+                    price = 1500;
+                    break;
+                case "Premium":
+                    price = 2500;
+                    break;
+            }
+
+            document.getElementById("Price").value = price;
+        }
+        updatePrice();
+    </script>
+}

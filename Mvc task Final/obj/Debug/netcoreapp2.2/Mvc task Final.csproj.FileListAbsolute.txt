@@ -1,0 +1,32 @@
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\bin\Debug\netcoreapp2.2\Mvc task Final.deps.json
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\bin\Debug\netcoreapp2.2\Mvc task Final.runtimeconfig.json
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\bin\Debug\netcoreapp2.2\Mvc task Final.runtimeconfig.dev.json
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\bin\Debug\netcoreapp2.2\Mvc task Final.dll
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\obj\Debug\netcoreapp2.2\Mvc task Final.csprojAssemblyReference.cache
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\obj\Debug\netcoreapp2.2\Mvc task Final.csproj.CoreCompileInputs.cache
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\obj\Debug\netcoreapp2.2\Mvc task Final.RazorAssemblyInfo.cache
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\obj\Debug\netcoreapp2.2\Mvc task Final.RazorAssemblyInfo.cs
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\obj\Debug\netcoreapp2.2\Mvc task Final.AssemblyInfoInputs.cache
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\obj\Debug\netcoreapp2.2\Mvc task Final.AssemblyInfo.cs
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\obj\Debug\netcoreapp2.2\Mvc task Final.TagHelpers.input.cache
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\obj\Debug\netcoreapp2.2\Mvc task Final.TagHelpers.output.cache
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\obj\Debug\netcoreapp2.2\Mvc task Final.RazorCoreGenerate.cache
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\obj\Debug\netcoreapp2.2\Mvc task Final.RazorTargetAssemblyInfo.cache
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\obj\Debug\netcoreapp2.2\Mvc task Final.RazorTargetAssemblyInfo.cs
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\bin\Debug\netcoreapp2.2\Mvc task Final.pdb
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\bin\Debug\netcoreapp2.2\Mvc task Final.Views.dll
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\bin\Debug\netcoreapp2.2\Mvc task Final.Views.pdb
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\obj\Debug\netcoreapp2.2\Mvc task Final.Views.pdb
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\obj\Debug\netcoreapp2.2\Mvc task Final.dll
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\obj\Debug\netcoreapp2.2\Mvc task Final.pdb
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\obj\Debug\netcoreapp2.2\Mvc task Final.csproj.CopyComplete
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\obj\Debug\netcoreapp2.2\Razor\Views\Room\Index.g.cshtml.cs
+C:\Users\langhnvi\Documents\dotnet\Mvc task Final\Mvc task Final\obj\Debug\netcoreapp2.2\Razor\Views\Room\Create.g.cshtml.cs
